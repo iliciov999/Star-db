@@ -1,0 +1,16 @@
+.button-row {
+  margin: 0 0 1rem 0;
+}
+
+.button-row button {
+  margin-right: 1rem;
+}
+
+.stardb-app .row {
+  margin-bottom: 1rem;
+}
+h2{
+  text-align: center;
+  color: #00bc8c;
+  margin-top: 20px;
+}
